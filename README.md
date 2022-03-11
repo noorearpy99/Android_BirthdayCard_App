@@ -1,4 +1,4 @@
-# Birthday Card App 📱 
+# Birthday Card App
 
 This android application is built using Kotlin.
 
